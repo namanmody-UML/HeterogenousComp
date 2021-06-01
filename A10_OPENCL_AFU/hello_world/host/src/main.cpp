@@ -74,8 +74,8 @@ int main(int argc, char **argv) {
 
   // Optional argument to specify whether the emulator should be used.
   if(options.has("emulator")) {
-	printf(" You are now compiling and executing the design for emulation mode\n ");
-    	use_emulator = options.get<bool>("emulator");
+    printf(" You are now compiling and executing the design for emulation mode\n");
+    use_emulator = options.get<bool>("emulator");
   }
 
   cl_int status;
@@ -222,7 +222,7 @@ static void device_info_string( cl_device_id device, cl_device_info param, const
 
 // Query and display OpenCL information on device and runtime environment
 static void display_device_info( cl_device_id device ) {
-     
+
    printf("Querying device for info:\n");
    printf("========================\n");
    device_info_string(device, CL_DEVICE_NAME, "CL_DEVICE_NAME");
@@ -258,7 +258,5 @@ static void display_device_info( cl_device_id device ) {
       printf("%-40s = %s\n", "Command queue out of order? ", ((ccp & CL_QUEUE_OUT_OF_ORDER_EXEC_MODE_ENABLE)?"true":"false"));
       printf("%-40s = %s\n", "Command queue profiling enabled? ", ((ccp & CL_QUEUE_PROFILING_ENABLE)?"true":"false"));
    }
-
- 
 }
 
