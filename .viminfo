@@ -12,9 +12,9 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1622521724,,"wq"
+|2,0,1622611976,,"wq"
 :q
-|2,0,1622284207,,"q"
+|2,0,1622608600,,"q"
 :w
 |2,0,1622284202,,"w"
 
@@ -30,245 +30,278 @@
 
 # File marks:
 '0  77  82  ~/A10_OPENCL_AFU/hello_world/host/src/main.cpp
-|4,48,77,82,1622521724,"~/A10_OPENCL_AFU/hello_world/host/src/main.cpp"
-'1  79  12  ~/A10_OPENCL_AFU/hello_world/host/src/main.cpp
-|4,49,79,12,1622284207,"~/A10_OPENCL_AFU/hello_world/host/src/main.cpp"
-'2  78  12  ~/A10_OPENCL_AFU/hello_world/host/src/main.cpp
-|4,50,78,12,1622284207,"~/A10_OPENCL_AFU/hello_world/host/src/main.cpp"
-'3  79  12  ~/A10_OPENCL_AFU/hello_world/host/src/main.cpp
-|4,51,79,12,1622283498,"~/A10_OPENCL_AFU/hello_world/host/src/main.cpp"
-'4  78  12  ~/A10_OPENCL_AFU/hello_world/host/src/main.cpp
-|4,52,78,12,1622283498,"~/A10_OPENCL_AFU/hello_world/host/src/main.cpp"
-'5  226  2  ~/A10_OPENCL_AFU/hello_world/host/src/main.cpp
-|4,53,226,2,1622283289,"~/A10_OPENCL_AFU/hello_world/host/src/main.cpp"
-'6  226  2  ~/A10_OPENCL_AFU/hello_world/host/src/main.cpp
-|4,54,226,2,1622283289,"~/A10_OPENCL_AFU/hello_world/host/src/main.cpp"
-'7  226  2  ~/A10_OPENCL_AFU/hello_world/host/src/main.cpp
-|4,55,226,2,1622283289,"~/A10_OPENCL_AFU/hello_world/host/src/main.cpp"
-'8  226  2  ~/A10_OPENCL_AFU/hello_world/host/src/main.cpp
-|4,56,226,2,1622283289,"~/A10_OPENCL_AFU/hello_world/host/src/main.cpp"
-'9  225  2  ~/A10_OPENCL_AFU/hello_world/host/src/main.cpp
-|4,57,225,2,1622283289,"~/A10_OPENCL_AFU/hello_world/host/src/main.cpp"
+|4,48,77,82,1622611976,"~/A10_OPENCL_AFU/hello_world/host/src/main.cpp"
+'1  1  0  ~/A10_OPENCL_AFU/v1.2.1/hello_world/A10_v1.2.1_opencl_batch.sh.o22304
+|4,49,1,0,1622608600,"~/A10_OPENCL_AFU/v1.2.1/hello_world/A10_v1.2.1_opencl_batch.sh.o22304"
+'2  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22304
+|4,50,1,0,1622608046,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22304"
+'3  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.e22303
+|4,51,1,0,1622607919,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.e22303"
+'4  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.O22303
+|4,52,1,0,1622607904,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.O22303"
+'5  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22303
+|4,53,1,0,1622607893,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22303"
+'6  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303
+|4,54,1,0,1622607856,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303"
+'7  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.22303
+|4,55,1,0,1622607833,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.22303"
+'8  62  0  ~/A10_OPENCL_AFU/common/src/AOCLUtils/opencl.cpp
+|4,56,62,0,1622530901,"~/A10_OPENCL_AFU/common/src/AOCLUtils/opencl.cpp"
+'9  78  82  ~/A10_OPENCL_AFU/hello_world/host/src/main.cpp
+|4,57,78,82,1622521724,"~/A10_OPENCL_AFU/hello_world/host/src/main.cpp"
 
 # Jumplist (newest first):
 -'  77  82  ~/A10_OPENCL_AFU/hello_world/host/src/main.cpp
-|4,39,77,82,1622521724,"~/A10_OPENCL_AFU/hello_world/host/src/main.cpp"
--'  79  2  ~/A10_OPENCL_AFU/hello_world/host/src/main.cpp
-|4,39,79,2,1622521617,"~/A10_OPENCL_AFU/hello_world/host/src/main.cpp"
--'  78  12  ~/A10_OPENCL_AFU/hello_world/host/src/main.cpp
-|4,39,78,12,1622284207,"~/A10_OPENCL_AFU/hello_world/host/src/main.cpp"
--'  78  12  ~/A10_OPENCL_AFU/hello_world/host/src/main.cpp
-|4,39,78,12,1622283498,"~/A10_OPENCL_AFU/hello_world/host/src/main.cpp"
--'  226  2  ~/A10_OPENCL_AFU/hello_world/host/src/main.cpp
-|4,39,226,2,1622283419,"~/A10_OPENCL_AFU/hello_world/host/src/main.cpp"
--'  225  2  ~/A10_OPENCL_AFU/hello_world/host/src/main.cpp
-|4,39,225,2,1622283419,"~/A10_OPENCL_AFU/hello_world/host/src/main.cpp"
--'  225  2  ~/A10_OPENCL_AFU/hello_world/host/src/main.cpp
-|4,39,225,2,1622283419,"~/A10_OPENCL_AFU/hello_world/host/src/main.cpp"
--'  225  2  ~/A10_OPENCL_AFU/hello_world/host/src/main.cpp
-|4,39,225,2,1622283289,"~/A10_OPENCL_AFU/hello_world/host/src/main.cpp"
--'  225  0  ~/A10_OPENCL_AFU/hello_world/host/src/main.cpp
-|4,39,225,0,1622282986,"~/A10_OPENCL_AFU/hello_world/host/src/main.cpp"
--'  215  0  ~/A10_OPENCL_AFU/hello_world/host/src/main.cpp
-|4,39,215,0,1622282020,"~/A10_OPENCL_AFU/hello_world/host/src/main.cpp"
--'  214  0  ~/A10_OPENCL_AFU/hello_world/host/src/main.cpp
-|4,39,214,0,1622282020,"~/A10_OPENCL_AFU/hello_world/host/src/main.cpp"
--'  214  0  ~/A10_OPENCL_AFU/hello_world/host/src/main.cpp
-|4,39,214,0,1622282020,"~/A10_OPENCL_AFU/hello_world/host/src/main.cpp"
--'  214  0  ~/A10_OPENCL_AFU/hello_world/host/src/main.cpp
-|4,39,214,0,1622282020,"~/A10_OPENCL_AFU/hello_world/host/src/main.cpp"
--'  214  0  ~/A10_OPENCL_AFU/hello_world/host/src/main.cpp
-|4,39,214,0,1622282020,"~/A10_OPENCL_AFU/hello_world/host/src/main.cpp"
--'  29  35  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,29,35,1622281931,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  29  35  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,29,35,1622281931,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  29  35  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,29,35,1622281931,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  29  35  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,29,35,1622281931,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  29  35  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,29,35,1622281931,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  29  35  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,29,35,1622281931,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  29  35  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,29,35,1622281931,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  29  35  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,29,35,1622281931,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  29  35  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,29,35,1622281931,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  29  35  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,29,35,1622281931,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  29  35  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,29,35,1622281931,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  29  35  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,29,35,1622281931,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  29  35  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,29,35,1622281931,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  29  35  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,29,35,1622281931,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  29  35  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,29,35,1622281931,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  29  35  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,29,35,1622281931,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  29  35  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,29,35,1622281931,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  29  35  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,29,35,1622281931,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  29  35  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,29,35,1622281931,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  29  35  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,29,35,1622281931,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  29  35  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,29,35,1622281931,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  29  35  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,29,35,1622281931,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  29  35  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,29,35,1622281931,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  29  35  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,29,35,1622281931,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  29  35  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,29,35,1622281931,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  29  35  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,29,35,1622281931,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  29  35  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,29,35,1622281931,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  29  35  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,29,35,1622281931,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  29  35  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,29,35,1622281931,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  29  35  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,29,35,1622281931,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  29  35  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,29,35,1622281931,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  29  35  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,29,35,1622281931,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  29  68  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,29,68,1622094080,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  29  68  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,29,68,1622094080,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  29  68  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,29,68,1622094080,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  29  68  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,29,68,1622094080,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  29  68  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,29,68,1622094080,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  29  68  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,29,68,1622094080,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  29  68  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,29,68,1622094080,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  29  68  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,29,68,1622094080,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  29  68  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,29,68,1622094080,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  29  68  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,29,68,1622094080,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  29  68  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,29,68,1622094080,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  29  68  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,29,68,1622094080,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  29  68  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,29,68,1622094080,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  29  68  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,29,68,1622094080,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  29  68  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,29,68,1622094080,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  29  68  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,29,68,1622094080,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  29  68  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,29,68,1622094080,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  29  68  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,29,68,1622094080,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  29  68  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,29,68,1622094080,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  29  68  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,29,68,1622094080,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  29  68  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,29,68,1622094080,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  29  68  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,29,68,1622094080,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  29  68  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,29,68,1622094080,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  29  68  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,29,68,1622094080,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  29  68  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,29,68,1622094080,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  29  68  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,29,68,1622094080,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  29  68  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,29,68,1622094080,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  29  68  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,29,68,1622094080,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  29  68  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,29,68,1622094080,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  29  68  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,29,68,1622094080,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  29  68  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,29,68,1622094080,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  29  68  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,29,68,1622094080,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  1  0  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,1,0,1622093565,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  1  0  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,1,0,1622093565,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  1  0  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,1,0,1622093565,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  1  0  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,1,0,1622093565,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  1  0  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,1,0,1622093565,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  1  0  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,1,0,1622093565,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  1  0  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,1,0,1622093565,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  1  0  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,1,0,1622093565,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  1  0  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,1,0,1622093565,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  1  0  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,1,0,1622093565,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  1  0  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,1,0,1622093565,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  1  0  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,1,0,1622093565,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  1  0  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,1,0,1622093565,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  1  0  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,1,0,1622093565,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  1  0  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,1,0,1622093565,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  1  0  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,1,0,1622093565,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  1  0  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,1,0,1622093565,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  1  0  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,1,0,1622093565,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  1  0  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,1,0,1622093565,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  1  0  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,1,0,1622093565,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  1  0  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,1,0,1622093565,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
--'  1  0  ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
-|4,39,1,0,1622093565,"~/A10_OPENCL_AFU/hello_world/device/hello_world.cl"
+|4,39,77,82,1622611976,"~/A10_OPENCL_AFU/hello_world/host/src/main.cpp"
+-'  78  48  ~/A10_OPENCL_AFU/hello_world/host/src/main.cpp
+|4,39,78,48,1622611821,"~/A10_OPENCL_AFU/hello_world/host/src/main.cpp"
+-'  1  0  ~/A10_OPENCL_AFU/v1.2.1/hello_world/A10_v1.2.1_opencl_batch.sh.o22304
+|4,39,1,0,1622608600,"~/A10_OPENCL_AFU/v1.2.1/hello_world/A10_v1.2.1_opencl_batch.sh.o22304"
+-'  1  0  ~/A10_OPENCL_AFU/v1.2.1/hello_world/A10_v1.2.1_opencl_batch.sh.o22304
+|4,39,1,0,1622608600,"~/A10_OPENCL_AFU/v1.2.1/hello_world/A10_v1.2.1_opencl_batch.sh.o22304"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22304
+|4,39,1,0,1622608046,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22304"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22304
+|4,39,1,0,1622608046,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22304"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22304
+|4,39,1,0,1622608046,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22304"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22304
+|4,39,1,0,1622608046,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22304"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.e22303
+|4,39,1,0,1622607919,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.e22303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.e22303
+|4,39,1,0,1622607919,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.e22303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.e22303
+|4,39,1,0,1622607919,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.e22303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.e22303
+|4,39,1,0,1622607919,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.e22303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.e22303
+|4,39,1,0,1622607919,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.e22303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.e22303
+|4,39,1,0,1622607919,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.e22303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.e22303
+|4,39,1,0,1622607919,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.e22303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.e22303
+|4,39,1,0,1622607919,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.e22303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.O22303
+|4,39,1,0,1622607904,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.O22303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.O22303
+|4,39,1,0,1622607904,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.O22303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.O22303
+|4,39,1,0,1622607904,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.O22303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.O22303
+|4,39,1,0,1622607904,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.O22303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.O22303
+|4,39,1,0,1622607904,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.O22303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.O22303
+|4,39,1,0,1622607904,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.O22303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.O22303
+|4,39,1,0,1622607904,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.O22303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.O22303
+|4,39,1,0,1622607904,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.O22303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.O22303
+|4,39,1,0,1622607904,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.O22303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.O22303
+|4,39,1,0,1622607904,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.O22303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.O22303
+|4,39,1,0,1622607904,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.O22303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.O22303
+|4,39,1,0,1622607904,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.O22303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.O22303
+|4,39,1,0,1622607904,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.O22303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.O22303
+|4,39,1,0,1622607904,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.O22303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.O22303
+|4,39,1,0,1622607904,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.O22303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.O22303
+|4,39,1,0,1622607904,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.O22303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22303
+|4,39,1,0,1622607893,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22303
+|4,39,1,0,1622607893,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22303
+|4,39,1,0,1622607893,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22303
+|4,39,1,0,1622607893,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22303
+|4,39,1,0,1622607893,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22303
+|4,39,1,0,1622607893,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22303
+|4,39,1,0,1622607893,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22303
+|4,39,1,0,1622607893,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22303
+|4,39,1,0,1622607893,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22303
+|4,39,1,0,1622607893,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22303
+|4,39,1,0,1622607893,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22303
+|4,39,1,0,1622607893,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22303
+|4,39,1,0,1622607893,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22303
+|4,39,1,0,1622607893,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22303
+|4,39,1,0,1622607893,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22303
+|4,39,1,0,1622607893,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22303
+|4,39,1,0,1622607893,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22303
+|4,39,1,0,1622607893,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22303
+|4,39,1,0,1622607893,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22303
+|4,39,1,0,1622607893,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22303
+|4,39,1,0,1622607893,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22303
+|4,39,1,0,1622607893,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22303
+|4,39,1,0,1622607893,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22303
+|4,39,1,0,1622607893,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22303
+|4,39,1,0,1622607893,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22303
+|4,39,1,0,1622607893,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22303
+|4,39,1,0,1622607893,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22303
+|4,39,1,0,1622607893,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22303
+|4,39,1,0,1622607893,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22303
+|4,39,1,0,1622607893,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22303
+|4,39,1,0,1622607893,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22303
+|4,39,1,0,1622607893,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303
+|4,39,1,0,1622607856,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303
+|4,39,1,0,1622607856,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303
+|4,39,1,0,1622607856,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303
+|4,39,1,0,1622607856,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303
+|4,39,1,0,1622607856,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303
+|4,39,1,0,1622607856,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303
+|4,39,1,0,1622607856,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303
+|4,39,1,0,1622607856,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303
+|4,39,1,0,1622607856,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303
+|4,39,1,0,1622607856,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303
+|4,39,1,0,1622607856,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303
+|4,39,1,0,1622607856,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303
+|4,39,1,0,1622607856,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303
+|4,39,1,0,1622607856,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303
+|4,39,1,0,1622607856,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303
+|4,39,1,0,1622607856,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303
+|4,39,1,0,1622607856,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303
+|4,39,1,0,1622607856,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303
+|4,39,1,0,1622607856,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303
+|4,39,1,0,1622607856,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303
+|4,39,1,0,1622607856,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303
+|4,39,1,0,1622607856,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303
+|4,39,1,0,1622607856,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303
+|4,39,1,0,1622607856,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303
+|4,39,1,0,1622607856,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303
+|4,39,1,0,1622607856,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303
+|4,39,1,0,1622607856,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303
+|4,39,1,0,1622607856,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303
+|4,39,1,0,1622607856,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303
+|4,39,1,0,1622607856,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303
+|4,39,1,0,1622607856,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303
+|4,39,1,0,1622607856,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303
+|4,39,1,0,1622607856,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303
+|4,39,1,0,1622607856,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303
+|4,39,1,0,1622607856,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303"
+-'  1  0  ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303
+|4,39,1,0,1622607856,"~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303"
 
 # History of marks within files (newest to oldest):
 
 > ~/A10_OPENCL_AFU/hello_world/host/src/main.cpp
-	*	1622521718	0
+	*	1622611974	0
 	"	77	82
 	^	77	83
 	.	77	82
-	+	263	1
+	+	264	1
 	+	74	0
-	+	78	0
-	+	79	4
-	+	78	25
-	+	226	1
-	+	78	72
-	+	226	2
-	+	78	9
+	+	79	0
+	+	80	4
+	+	79	25
+	+	227	1
+	+	79	72
+	+	227	2
+	+	79	9
+	+	78	82
 	+	77	82
+
+> ~/A10_OPENCL_AFU/v1.2.1/hello_world/A10_v1.2.1_opencl_batch.sh.o22304
+	*	1622608598	0
+	"	1	0
+
+> ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22304
+	*	1622608044	0
+	"	1	0
+
+> ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.e22303
+	*	1622607918	0
+	"	1	0
+
+> ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.O22303
+	*	1622607903	0
+	"	1	0
+
+> ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.o22303
+	*	1622607891	0
+	"	1	0
+
+> ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.022303
+	*	1622607855	0
+	"	1	0
+
+> ~/A10_OPENCL_AFU/hello_world/A10_v1.2.1_opencl_batch.sh.22303
+	*	1622607832	0
+	"	1	0
+
+> ~/A10_OPENCL_AFU/common/src/AOCLUtils/opencl.cpp
+	*	1622530900	0
+	"	62	0
 
 > ~/A10_OPENCL_AFU/hello_world/device/hello_world.cl
 	*	1622281927	0
